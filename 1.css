@@ -14,7 +14,7 @@ html,body{
     height: 150px;
     width: 150px;
     text-align: center;
-    background-image: linear-gradient(red,pink);
+    background-image: linear-gradient(magenta, red);
 }
 .ele{
     font-size: 30px;
